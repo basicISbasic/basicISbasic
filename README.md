@@ -1,3 +1,3 @@
 <p align="center">
-<img width="500" height="200" alt="Untitled201_20260721115131_1" src="https://github.com/user-attachments/assets/59246aa7-8a79-4481-a17a-959ec8c422e7"/>
+<img width="500" alt="Untitled201_20260721115131_1" src="https://github.com/user-attachments/assets/59246aa7-8a79-4481-a17a-959ec8c422e7"/>
 </p>
