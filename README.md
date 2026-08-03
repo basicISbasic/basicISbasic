@@ -1,3 +1,3 @@
 <p align="center">
-<img width="600" alt="fpe banner ibis paint 2026 8 3" src="https://github.com/user-attachments/assets/7bb92754-2b2d-4dd8-b8db-540b92ab3e33" />
+  <img width="600" alt="cuz zip ran over me with a boat ibispaint 2026 8 3" src="https://github.com/user-attachments/assets/98ceed23-d5e7-49cd-87c0-d44dcbd7de54" />
 </p>
