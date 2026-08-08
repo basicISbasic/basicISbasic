@@ -1,3 +1,4 @@
+
 <p align="center">
-  <img width="600" alt="cuz zip ran over me with a boat ibispaint 2026 8 3" src="https://github.com/user-attachments/assets/98ceed23-d5e7-49cd-87c0-d44dcbd7de54" />
+ <img width="600" alt="WhatsApp Image 2026-08-08 at 11 29 18 PM" src="https://github.com/user-attachments/assets/0e83721a-1fca-4a5f-9b9a-d67c18614b30" />
 </p>
