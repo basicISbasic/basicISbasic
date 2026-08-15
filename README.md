@@ -1,6 +1,4 @@
 
-
-
 <p align="center">
-<img width="600" alt="LOT&#39;s into banner _20260815232756" src="https://github.com/user-attachments/assets/9d3a0fc9-dbf7-46fc-ba58-2e78aa1ffc7e" />
+  <img width="600" alt="hummer banner _20260816020058" src="https://github.com/user-attachments/assets/255f02b2-4553-456e-94e4-66e6157b7b65" />
 </p>
